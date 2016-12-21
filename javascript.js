@@ -23,3 +23,9 @@ $("#info-button").click(function(){
     $('.all-content').hide();
     $('#info-content').show();
 });
+
+$("#past-button").click(function(){
+    $('.all-content').hide();
+    $('#past-content').show(); 
+    
+});
